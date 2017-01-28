@@ -1,4 +1,4 @@
-# Spring Boot JPA - Hibernate MySQL Example #
+# Spring Boot - JPA Hibernate MySQL Example #
 
 # Requirements for run
 JDK 1.8
