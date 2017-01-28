@@ -4,4 +4,4 @@
 JDK 1.8
 
 ### Run ###
-$ java -jar target/spring-boot-jpa-hibernate-mysql-example-0.0.1-SNAPSHOT.jar
+$ java -jar spring-boot-jpa-hibernate-mysql-example-0.0.1-SNAPSHOT.jar
